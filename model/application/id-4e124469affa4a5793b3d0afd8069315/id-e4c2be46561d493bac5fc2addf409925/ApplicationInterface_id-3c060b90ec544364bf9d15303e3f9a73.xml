@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define/update orders"
+    id="id-3c060b90ec544364bf9d15303e3f9a73"
+    documentation="A medio termine, questa interfaccia espone -via API- le funzioni di definizione e modifica/aggiornamento delle pratiche che sono disponibili (via interfaccia web) per le persone."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update existing order"
+    id="id-069d80a9602a4c0e98cd7c947057cad7"
+    documentation="La definizione di nuove istanze e/o la loro variazione (per esempio la registrazione degli avanzamenti nell'iter di lavorazione) è supportata dall'applicazione commerciale OpenProject opportunamente configurata per Regione Abruzzo (RA-Project).&#xA;Ciò significa che -a breve termine- (soluzione &quot;non integrata&quot;) il processo richiede l'inserimento manuale dei dati della pratica da parte degli utenti (funzionari regionali e/o esperti)."/>
