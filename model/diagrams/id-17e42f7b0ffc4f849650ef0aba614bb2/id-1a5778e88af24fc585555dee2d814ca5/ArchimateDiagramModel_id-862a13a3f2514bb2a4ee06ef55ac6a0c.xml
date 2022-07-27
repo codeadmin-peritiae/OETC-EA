@@ -75,4 +75,16 @@
         xsi:type="archimate:ApplicationEvent"
         href="ApplicationEvent_id-6f37bc3443e54bf3b9e794508af9dfc7.xml#id-6f37bc3443e54bf3b9e794508af9dfc7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c747548ccd094f9f96c7abf0b70cfb9c">
+    <bounds
+        x="876"
+        y="105"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-ca730daa565e401fa145b6500da83e7d.xml#id-ca730daa565e401fa145b6500da83e7d"/>
+  </children>
 </archimate:ArchimateDiagramModel>
