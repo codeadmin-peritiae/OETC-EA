@@ -7,10 +7,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7f2fec7d67a442eeaa90afe2fa6752f7">
     <bounds
-        x="120"
-        y="96"
-        width="601"
-        height="457"/>
+        x="300"
+        y="240"
+        width="421"
+        height="313"/>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-6fd97b8aa3294875b83a653128c20cad.xml#id-6fd97b8aa3294875b83a653128c20cad"/>
