@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity management"
+    id="id-862a13a3f2514bb2a4ee06ef55ac6a0c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7f2fec7d67a442eeaa90afe2fa6752f7">
+    <bounds
+        x="120"
+        y="96"
+        width="601"
+        height="457"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationCollaboration"
+        href="ApplicationCollaboration_id-6fd97b8aa3294875b83a653128c20cad.xml#id-6fd97b8aa3294875b83a653128c20cad"/>
+  </children>
+</archimate:ArchimateDiagramModel>
