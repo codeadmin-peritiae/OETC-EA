@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for NSS"
+    id="id-815dda22f88540e68e4de64cfa9e46ad">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7c2c6e12021e43afb6d7eabaa11e756c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3d2289fec55e486f9700ab7c1a759b0e"
+        source="id-7c2c6e12021e43afb6d7eabaa11e756c"
+        target="id-97faf3cc676047f4975c705283b3257e">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-a0a2a6f2a26147cdba34b257500e759b.xml#id-a0a2a6f2a26147cdba34b257500e759b"/>
+    </sourceConnections>
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-d65771e3e0274fa5add62c5a2c3e1c63.xml#id-d65771e3e0274fa5add62c5a2c3e1c63"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-97faf3cc676047f4975c705283b3257e"
+      targetConnections="id-3d2289fec55e486f9700ab7c1a759b0e">
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-e9f9ba2e43a44516b095fb95debe1442.xml#id-e9f9ba2e43a44516b095fb95debe1442"/>
+  </children>
+</archimate:ArchimateDiagramModel>

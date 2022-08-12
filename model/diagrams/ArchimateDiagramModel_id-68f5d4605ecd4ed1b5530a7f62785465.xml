@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for BPM - OutSystems"
+    id="id-68f5d4605ecd4ed1b5530a7f62785465">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fb7ca14df6f141c489a310387036e1db">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-1f6c24b12631491e8990ae2953130b83.xml#id-1f6c24b12631491e8990ae2953130b83"/>
+  </children>
+</archimate:ArchimateDiagramModel>
