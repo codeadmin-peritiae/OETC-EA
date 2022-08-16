@@ -1,5 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Desgn"
-    id="id-7a5116cd2b66478984cef9095404b20e"
-    documentation="Il processo applicativo di interrogazione dei dati delle istanze è comune alla soluzione di breve ed alla soluzione di medio termine. Eventualmente, nel passaggio tra breve e medio termine, dovesse ampliarsi l'insieme dei dati di monitoraggio, l'applicazione andrà modificata di conseguenza, ma sempre permettendo anche l'inserimento manuale dei dati aggiuntivi. "/>

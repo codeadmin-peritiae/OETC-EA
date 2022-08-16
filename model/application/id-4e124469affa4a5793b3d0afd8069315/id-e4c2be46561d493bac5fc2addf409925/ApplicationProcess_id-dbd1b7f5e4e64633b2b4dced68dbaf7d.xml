@@ -1,5 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Define/update orders"
-    id="id-dbd1b7f5e4e64633b2b4dced68dbaf7d"
-    documentation="A medio termine, il processo applicativo di definizione e/o variazione dei dati della pratica avviene sempre da parte della componente applicativa implementata a breve termine. Però avviene in modo automatico perché le funzioni vengono invocate dalla Piattaforma di Presentazione on-line delle istanze, attraverso le API di nuova realizzazione."/>
