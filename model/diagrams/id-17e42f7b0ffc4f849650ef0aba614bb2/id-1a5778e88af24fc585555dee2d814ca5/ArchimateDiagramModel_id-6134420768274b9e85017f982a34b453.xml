@@ -584,8 +584,8 @@
       id="id-e2ac3ec023fc4392921ec13d5641d166"
       targetConnections="id-965994eb295c436f9266be5dabb788d6">
     <bounds
-        x="996"
-        y="-300"
+        x="948"
+        y="-325"
         width="301"
         height="157"/>
     <children
@@ -639,7 +639,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-24737b3d77e34c12a198859f60b8673d">
     <bounds
-        x="852"
+        x="660"
         y="-336"
         width="253"
         height="180"/>
