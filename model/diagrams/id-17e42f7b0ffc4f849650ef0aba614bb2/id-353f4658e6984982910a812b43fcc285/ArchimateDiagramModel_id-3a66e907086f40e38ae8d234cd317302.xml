@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GB - Conceptual DSS As-Is Modeling"
+    name="Conceptual DSS As-Is Modeling"
     id="id-3a66e907086f40e38ae8d234cd317302">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -114,7 +114,7 @@
     <bounds
         x="329"
         y="516"
-        width="143"
+        width="133"
         height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
