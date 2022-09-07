@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network management - ABB-Hitachi (FOXMAN) "
+    id="id-fca705ed32e04b15b65e4860ac156730"
+    documentation="FOXMAN-UN, one of the elements in ABB’s comprehensive&#xD;&#xA;NMS suite, is a powerful tool set providing all the essentials&#xD;&#xA;of a Network Management System, such as network status,&#xD;&#xA;alarm notification and enhanced circuit provisioning functionality.&#xD;&#xA;&#xD;&#xA;https://library.e.abb.com/public/8e297004b9cef10cc12570680021002a/778_FOXMAN-UN.pdf"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OT Asset Management - ArcGIS"
+    id="id-9e007d210a9347d5a6cf748c665ea880"
+    documentation="ArcGIS is a family of client software, server software, and online geographic information system (GIS) services developed and maintained by Esri.&#xD;&#xA;A base ArcGIS Enterprise deployment consists of a combination of three primary components—Portal for ArcGIS, ArcGIS Server, and ArcGIS Data Store—that together comprise a Web GIS"/>

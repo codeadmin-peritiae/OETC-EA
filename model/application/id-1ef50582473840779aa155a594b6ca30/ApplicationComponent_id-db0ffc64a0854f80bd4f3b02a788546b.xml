@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability Management System - Holm"
+    id="id-db0ffc64a0854f80bd4f3b02a788546b"
+    documentation=" platform leverages threat intelligence, allowing understand the full context of each exposure and focus on high-risk technical vulnerabilities and users&#xD;&#xA;&#xD;&#xA;https://www.holmsecurity.com/platform"/>

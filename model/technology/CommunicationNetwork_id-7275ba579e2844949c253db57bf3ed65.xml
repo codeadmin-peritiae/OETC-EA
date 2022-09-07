@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WAN"
+    id="id-7275ba579e2844949c253db57bf3ed65"
+    documentation="WAN Connectivity between NSS-DC and IT-DC - Wireless P2P Link  &#xD;&#xA;WAN Switch Cisco 9200 QTY-1 "/>

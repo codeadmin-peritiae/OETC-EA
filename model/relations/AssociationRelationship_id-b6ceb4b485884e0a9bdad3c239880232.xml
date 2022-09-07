@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosted In"
+    id="id-b6ceb4b485884e0a9bdad3c239880232">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-c6852631dc174cbd955772efc61717fd.xml#id-c6852631dc174cbd955772efc61717fd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-158a8849f7134ab5840b2d3857445bfa.xml#id-158a8849f7134ab5840b2d3857445bfa"/>
+</archimate:AssociationRelationship>

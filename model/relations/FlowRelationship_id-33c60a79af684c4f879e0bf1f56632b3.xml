@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheduled Process"
+    id="id-33c60a79af684c4f879e0bf1f56632b3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6b31a8013d344e41bec082504d620069.xml#id-6b31a8013d344e41bec082504d620069"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9e007d210a9347d5a6cf748c665ea880.xml#id-9e007d210a9347d5a6cf748c665ea880"/>
+</archimate:FlowRelationship>

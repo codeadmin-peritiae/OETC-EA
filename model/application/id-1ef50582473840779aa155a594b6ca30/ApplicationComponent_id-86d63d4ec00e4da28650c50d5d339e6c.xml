@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privilage, Remote Access Management  PRAM - Beyond Trust"
+    id="id-86d63d4ec00e4da28650c50d5d339e6c"
+    documentation="Privileged remote access is about ensuring employees, third-party vendors, and other insiders don't have free access to systems while accessing the network remotely.&#xD;&#xA;Privileged access management (PAM) consists of the cybersecurity strategies and technologies for exerting control over the elevated (“privileged”) access and permissions for users, accounts, processes, and systems across an IT environment. By dialing in the appropriate level of privileged access controls, PAM helps organizations condense their organization’s attack surface, and prevent, or at least mitigate, the damage arising from external attacks as well as from insider malfeasance or negligence."/>

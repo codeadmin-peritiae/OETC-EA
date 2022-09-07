@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protection Settings Management - Stationware "
+    id="id-c8b8c17b3429482fbc6e6d501c7cd395"
+    documentation="DIgSILENT StationWare is a reliable central protection settings database and asset management system, based on the latest .NET technology. StationWare stores and records all settings in a central database, allows modelling of relevant workflow sequences, provides quick access to relay manuals, interfaces with manufacturer-specific relay settings and integrates with PowerFactory software, allowing powerful and easy-to-use settings coordination studies.&#xD;&#xA;&#xD;&#xA;The main applications are:&#xD;&#xA;&#xD;&#xA;Asset Management&#xD;&#xA;Protection Settings Management&#xD;&#xA;Business Processes&#xD;&#xA;&#xD;&#xA;https://www.digsilent.de/en/stationware.html&#xD;&#xA;&#xD;&#xA;http://www.digsilent.net.au/psms4v44a/help/StationWare_User_Manual.pdf"/>
