@@ -1,11 +1,13 @@
-<archimate:FlowRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-de53f2d2d7b645e9a2ac70f731c2b7e4">
+    name="Located"
+    id="id-bba9d9877eb147afb3ae3352bffa8171"
+    directed="true">
   <source
       xsi:type="archimate:TechnologyCollaboration"
       href="TechnologyCollaboration_id-ffa2de38ef9943f9b09809b426b9953c.xml#id-ffa2de38ef9943f9b09809b426b9953c"/>
   <target
-      xsi:type="archimate:CommunicationNetwork"
-      href="CommunicationNetwork_id-7275ba579e2844949c253db57bf3ed65.xml#id-7275ba579e2844949c253db57bf3ed65"/>
-</archimate:FlowRelationship>
+      xsi:type="archimate:Location"
+      href="Location_id-a3043a5d39f44698bd519c8a60b70a88.xml#id-a3043a5d39f44698bd519c8a60b70a88"/>
+</archimate:AssociationRelationship>
