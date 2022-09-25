@@ -1,5 +1,5 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LAN"
+    name="DC Core network"
     id="id-781ccf3c259c42f59177582ce04f90c4"
     documentation="NSS-DC Lan "/>
