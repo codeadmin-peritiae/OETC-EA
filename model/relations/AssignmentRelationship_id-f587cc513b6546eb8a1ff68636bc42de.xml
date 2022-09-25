@@ -1,11 +1,12 @@
-<archimate:FlowRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-2d6cbe807c264fc5a32a8767ac3dd4ed">
+    name="Hosted in "
+    id="id-f587cc513b6546eb8a1ff68636bc42de">
   <source
       xsi:type="archimate:Location"
       href="Location_id-9c2ff36b25ed44a8bc475af4ef0473a9.xml#id-9c2ff36b25ed44a8bc475af4ef0473a9"/>
   <target
-      xsi:type="archimate:CommunicationNetwork"
-      href="CommunicationNetwork_id-7275ba579e2844949c253db57bf3ed65.xml#id-7275ba579e2844949c253db57bf3ed65"/>
-</archimate:FlowRelationship>
+      xsi:type="archimate:Device"
+      href="Device_id-123c7c689eea47d59f0dbea3bfad9914.xml#id-123c7c689eea47d59f0dbea3bfad9914"/>
+</archimate:AssignmentRelationship>
