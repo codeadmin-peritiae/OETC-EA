@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a6d114f7c35b4f72b49b58cf40e242b8"
+    documentation="This company owns Manah Power Plant"
+    directed="true">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-2a512cefae6041f8bee562cec4c8217b.xml#id-2a512cefae6041f8bee562cec4c8217b"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-34edfc1573e04de9acf79ea1297ae5aa.xml#id-34edfc1573e04de9acf79ea1297ae5aa"/>
+</archimate:AssociationRelationship>
