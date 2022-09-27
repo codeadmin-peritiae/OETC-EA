@@ -3,8 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-ad32d88380cf4adca1733be1a6adcb8c">
   <source
-      xsi:type="archimate:CommunicationNetwork"
-      href="CommunicationNetwork_id-b493f3b5f1a64a0dbfada29cc9c86e8f.xml#id-b493f3b5f1a64a0dbfada29cc9c86e8f"/>
+      xsi:type="archimate:Path"
+      href="Path_id-ae589a90ddec4d6ba196dcc5a474e759.xml#id-ae589a90ddec4d6ba196dcc5a474e759"/>
   <target
       xsi:type="archimate:Node"
       href="Node_id-1c24005120bf4b8c823b8c603efb9b67.xml#id-1c24005120bf4b8c823b8c603efb9b67"/>

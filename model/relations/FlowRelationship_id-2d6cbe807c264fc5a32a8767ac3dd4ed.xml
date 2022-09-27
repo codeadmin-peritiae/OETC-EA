@@ -6,6 +6,6 @@
       xsi:type="archimate:TechnologyCollaboration"
       href="TechnologyCollaboration_id-ad87692cf348427589a3b3606baf0ed2.xml#id-ad87692cf348427589a3b3606baf0ed2"/>
   <target
-      xsi:type="archimate:CommunicationNetwork"
-      href="CommunicationNetwork_id-7275ba579e2844949c253db57bf3ed65.xml#id-7275ba579e2844949c253db57bf3ed65"/>
+      xsi:type="archimate:Path"
+      href="Path_id-8a0864d10caf43e6815fd175da995e0e.xml#id-8a0864d10caf43e6815fd175da995e0e"/>
 </archimate:FlowRelationship>
