@@ -728,4 +728,18 @@
         xsi:type="archimate:TechnologyInterface"
         href="TechnologyInterface_id-1861a850de7b4371811b68cc1c283893.xml#id-1861a850de7b4371811b68cc1c283893"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b266af19ebc8433aa4360afff3cda04f"
+      lineColor="#5c5c5c"
+      fillColor="#fbb875">
+    <bounds
+        x="585"
+        y="-15"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-416e75a051f04caa849b035e4ff60c75.xml#id-416e75a051f04caa849b035e4ff60c75"/>
+  </children>
 </archimate:ArchimateDiagramModel>

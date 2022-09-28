@@ -713,7 +713,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0897f124f12f40b1aaf4ea0fcaff4387"
       lineColor="#5c5c5c"
-      fillColor="#ccccff">
+      fillColor="#d4fb78">
     <bounds
         x="132"
         y="168"
@@ -727,7 +727,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6f66c6239f454c5f9af3e8291478202f"
       lineColor="#5c5c5c"
-      fillColor="#ccccff">
+      fillColor="#d4fb78">
     <bounds
         x="307"
         y="182"
