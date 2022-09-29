@@ -1,4 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data-center consolidation"
-    id="id-a7588c1dfb284798a648da8543714a0f"/>
+    name="(Med) ICT Business continuity"
+    id="id-a7588c1dfb284798a648da8543714a0f"
+    documentation="All the actions are needed to realise a full ICT business continuity capability."/>

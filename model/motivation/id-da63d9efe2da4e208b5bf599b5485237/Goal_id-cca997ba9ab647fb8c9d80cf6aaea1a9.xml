@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ICT EA subset"
-    id="id-cca997ba9ab647fb8c9d80cf6aaea1a9"/>
+    name="(Med) ICT EA subset"
+    id="id-cca997ba9ab647fb8c9d80cf6aaea1a9"
+    documentation="At medium term, OETC ICT has an Enterprise Architecture knowledge base in place, ant it is continuously maintained and updated."/>

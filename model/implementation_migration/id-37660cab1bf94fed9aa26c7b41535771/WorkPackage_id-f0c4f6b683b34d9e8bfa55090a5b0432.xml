@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Lng) ICT Disaster recovery"
+    id="id-f0c4f6b683b34d9e8bfa55090a5b0432"
+    documentation="All the actions are needed to realise a full ICT disater recovery capability.&#xA;1. The physical (unified) data-center is shifted to a &quot;software defined&quot; data-center hosted by a &quot;public&quot; cloud (or an analogue country-wide trusted hybrid cloud).&#xA;2. Disaster recovery procedures are defined, applied and tested on a regular base&#xA;3. etc."/>

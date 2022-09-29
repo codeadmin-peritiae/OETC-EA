@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OETC Enterprise Architecture"
-    id="id-0a71abc521de42499bfe37563b5a0efe"/>
+    name="(Lng) OETC Enterprise Architecture"
+    id="id-0a71abc521de42499bfe37563b5a0efe"
+    documentation="At long term, OETC has an Enterprise Architecture knowledge base in place, ant it is continuously maintained and updated."/>

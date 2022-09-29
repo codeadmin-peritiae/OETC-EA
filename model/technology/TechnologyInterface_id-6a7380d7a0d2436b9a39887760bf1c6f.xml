@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NSS Customer VDC Portal"
+    id="id-6a7380d7a0d2436b9a39887760bf1c6f"
+    documentation="The portal, exposed to NSS customers (OETC employees) for self-provisioning and management of the OETC Virtual Data Center"/>

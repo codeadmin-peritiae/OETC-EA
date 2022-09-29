@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ICT Busienss continuity"
-    id="id-688daaf9650f440a9e52d8f6e7805f9b"/>
+    name="(Med) ICT Busienss continuity"
+    id="id-688daaf9650f440a9e52d8f6e7805f9b"
+    documentation="At medium term, OETC ICT is able to continue the usual business services even in front of a large failure or an unespected event."/>

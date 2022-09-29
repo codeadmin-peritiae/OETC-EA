@@ -5,8 +5,8 @@
     id="id-2d50d290fca2467092d1e747ccc9d456"
     directed="true">
   <source
-      xsi:type="archimate:Facility"
-      href="Facility_id-355852678fc0420e9d700e953c99f75a.xml#id-355852678fc0420e9d700e953c99f75a"/>
+      xsi:type="archimate:TechnologyCollaboration"
+      href="TechnologyCollaboration_id-ad87692cf348427589a3b3606baf0ed2.xml#id-ad87692cf348427589a3b3606baf0ed2"/>
   <target
       xsi:type="archimate:Location"
       href="Location_id-9c2ff36b25ed44a8bc475af4ef0473a9.xml#id-9c2ff36b25ed44a8bc475af4ef0473a9"/>
