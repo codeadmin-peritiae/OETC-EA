@@ -1,4 +1,5 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Low automation"
-    id="id-81547ff87cb24b1289d30066cf8653d4"/>
+    id="id-81547ff87cb24b1289d30066cf8653d4"
+    documentation="From the Roadmap document: The majority of OETC Business Processes include the generation of documents, reports, communications that flows “from desk to desk” until their completion. "/>
