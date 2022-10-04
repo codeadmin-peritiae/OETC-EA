@@ -10,7 +10,7 @@
       lineColor="#5c5c5c"
       fillColor="#fbb875">
     <bounds
-        x="85"
+        x="84"
         width="120"
         height="55"/>
     <archimateElement
@@ -24,7 +24,7 @@
       lineColor="#5c5c5c"
       fillColor="#fbb875">
     <bounds
-        x="361"
+        x="360"
         y="-48"
         width="120"
         height="55"/>
@@ -94,7 +94,7 @@
           href="AssociationRelationship_id-ffcf3e6f8b974130ac9652693f1feaba.xml#id-ffcf3e6f8b974130ac9652693f1feaba"/>
     </sourceConnections>
     <bounds
-        x="264"
+        x="263"
         y="36"
         width="217"
         height="469"/>
@@ -336,7 +336,7 @@
           href="AssociationRelationship_id-2d50d290fca2467092d1e747ccc9d456.xml#id-2d50d290fca2467092d1e747ccc9d456"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="11"
         y="174"
         width="193"
         height="325"/>
@@ -418,9 +418,14 @@
         source="id-d582d0c8e415432981bb31b6ba5b6e85"
         target="id-d8176791811849f3b377c988385fe8a6">
       <bendpoints
-          startX="-24"
-          startY="339"
-          endX="287"
+          startX="-83"
+          startY="309"
+          endX="420"
+          endY="-15"/>
+      <bendpoints
+          startX="-288"
+          startY="276"
+          endX="227"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
@@ -466,8 +471,8 @@
           href="AssociationRelationship_id-12ec5da58af8427692ccb6c31057ef72.xml#id-12ec5da58af8427692ccb6c31057ef72"/>
     </sourceConnections>
     <bounds
-        x="780"
-        y="144"
+        x="767"
+        y="99"
         width="217"
         height="361"/>
     <children
@@ -521,9 +526,9 @@
             href="CompositionRelationship_id-aca8878cc15144d29052ca99c4273de8.xml#id-aca8878cc15144d29052ca99c4273de8"/>
       </sourceConnections>
       <bounds
-          x="18"
+          x="30"
           y="288"
-          width="169"
+          width="157"
           height="49"/>
       <archimateElement
           xsi:type="archimate:Device"
@@ -630,7 +635,8 @@
       lineColor="#5c5c5c"
       fillColor="#fbb875">
     <bounds
-        x="877"
+        x="864"
+        y="-45"
         width="120"
         height="55"/>
     <archimateElement
@@ -642,7 +648,7 @@
       id="id-d8176791811849f3b377c988385fe8a6"
       targetConnections="id-aafc8d3b75d44c9f8953dfc9982b7b58 id-35850d42820549849a10db70ad7a7415 id-6461141b44f6485a8fde10d0e9ba1d89">
     <bounds
-        x="313"
+        x="312"
         y="576"
         width="120"
         height="55"/>
@@ -655,7 +661,7 @@
       id="id-e46b3f88df7148c5aecba2e2451033c5"
       targetConnections="id-d516d7eac14b47e8a1e66d509c3f6456 id-de73cfd03f674217a35cc70635f463cb">
     <bounds
-        x="1068"
+        x="1067"
         y="444"
         width="166"
         height="55"/>
@@ -668,7 +674,7 @@
       id="id-919227dfdb50425f999f708fd0dca1fa"
       targetConnections="id-754454944dec4cc18e914b17cf61d1f9">
     <bounds
-        x="1068"
+        x="1067"
         y="252"
         width="166"
         height="55"/>
@@ -681,7 +687,7 @@
       id="id-4f8b5c6f93aa4fdbacce5ad195cfab46"
       targetConnections="id-f18181e4883b4fdfa06383805a50797a">
     <bounds
-        x="1068"
+        x="1067"
         y="360"
         width="166"
         height="55"/>
@@ -694,7 +700,7 @@
       id="id-c429bf32e83e4faab4f3d536e136f658"
       targetConnections="id-68c43a13122d467785f9d7429ade5c50">
     <bounds
-        x="528"
+        x="527"
         y="252"
         width="164"
         height="55"/>
@@ -707,7 +713,7 @@
       id="id-9de361e312c14dc89c3459971214bc34"
       targetConnections="id-d981c11d6988406182441c5cdd90130d">
     <bounds
-        x="528"
+        x="527"
         y="384"
         width="164"
         height="55"/>
@@ -720,7 +726,7 @@
       id="id-5d9458195c5145e9aec4706d9802791c"
       targetConnections="id-511e151a1c0244a29235b34e4899d902 id-c77820ddeb1046f5b17d75ffae015b3e">
     <bounds
-        x="528"
+        x="527"
         y="468"
         width="164"
         height="55"/>
