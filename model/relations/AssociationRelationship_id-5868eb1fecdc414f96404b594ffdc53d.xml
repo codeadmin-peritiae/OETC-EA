@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Direct influence"
+    id="id-5868eb1fecdc414f96404b594ffdc53d"
+    directed="true">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-e1ec287be6874a74b03d3d3b303d59a1.xml#id-e1ec287be6874a74b03d3d3b303d59a1"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-eb2a66d7b4474218bcbe4e429e8ec546.xml#id-eb2a66d7b4474218bcbe4e429e8ec546"/>
+</archimate:AssociationRelationship>
