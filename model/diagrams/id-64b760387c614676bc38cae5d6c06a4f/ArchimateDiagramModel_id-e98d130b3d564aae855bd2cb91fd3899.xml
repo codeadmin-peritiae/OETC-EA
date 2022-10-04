@@ -251,7 +251,7 @@
         id="id-bf87ff64ab2343bc822c70442fa5a4fd"
         lineColor="#000000"
         source="id-ab7c638f8abd4c39a38b8237eb2ac402"
-        target="id-0eed6c58bbee41a495e713c4ab9545c2">
+        target="id-6ab1c779e2a04cc0b4176b495d81bac6">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-1ff2baac142d463fa8f0058fd604e44f.xml#id-1ff2baac142d463fa8f0058fd604e44f"/>
@@ -997,7 +997,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0eed6c58bbee41a495e713c4ab9545c2"
-      targetConnections="id-bf87ff64ab2343bc822c70442fa5a4fd"
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
@@ -1012,6 +1011,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6ab1c779e2a04cc0b4176b495d81bac6"
+      targetConnections="id-bf87ff64ab2343bc822c70442fa5a4fd"
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <sourceConnections
