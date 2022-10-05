@@ -818,16 +818,6 @@
       fillColor="#d4fb78">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5a537fa6e1b043acaf5704c5a69b5f4a"
-        lineColor="#000000"
-        source="id-55d78563b7e94c01810c5ccdebc581bf"
-        target="id-ba155ac066574632813f4a894df616db">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-5f6f4395bfdf4c2d95227b146172f4e4.xml#id-5f6f4395bfdf4c2d95227b146172f4e4"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-52462beb28cb4407b8302f4f78346726"
         lineColor="#000000"
         source="id-55d78563b7e94c01810c5ccdebc581bf"
@@ -873,7 +863,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ba155ac066574632813f4a894df616db"
-      targetConnections="id-5a537fa6e1b043acaf5704c5a69b5f4a"
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <sourceConnections
