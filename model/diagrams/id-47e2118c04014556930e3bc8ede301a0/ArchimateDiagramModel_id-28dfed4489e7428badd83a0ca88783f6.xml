@@ -1182,11 +1182,6 @@
         lineColor="#000000"
         source="id-865e992a01494452863853d7b4ec9c17"
         target="id-bd34de83a7e244b3827cfdd59bbbc929">
-      <bendpoints
-          startX="-269"
-          startY="297"
-          endX="303"
-          endY="-303"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-4d8c7e21d5e243088f8d13cba1e20237.xml#id-4d8c7e21d5e243088f8d13cba1e20237"/>
