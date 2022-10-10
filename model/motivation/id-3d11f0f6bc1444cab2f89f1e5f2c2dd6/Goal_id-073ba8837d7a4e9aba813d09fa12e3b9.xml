@@ -1,5 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Med) OETC Improved business continuity"
+    name="(Med) OETC business continuity"
     id="id-073ba8837d7a4e9aba813d09fa12e3b9"
-    documentation="At medium term, OETC is able to continue the usual business services even in front of a large failure or unexpected events."/>
+    documentation="At medium term, OETC is able to continue the usual business services even if there is a major outage"/>

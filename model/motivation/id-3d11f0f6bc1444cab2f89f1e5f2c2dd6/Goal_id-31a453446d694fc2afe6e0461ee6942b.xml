@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Lng) OETC Business process automation"
-    id="id-31a453446d694fc2afe6e0461ee6942b"/>
+    id="id-31a453446d694fc2afe6e0461ee6942b"
+    documentation="Business process automation refers to the use of technology to execute recurring tasks or processes in an organization where manual effort can be replaced. It is done to minimize costs, increase efficiency, and streamline processes an example of BPA automation of  Employee Onboarding, leave request management, travel management etc"/>

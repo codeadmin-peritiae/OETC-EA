@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Med) Business process definition and diffusion"
-    id="id-81ba973381a4439a95e02b0e5c0c1328"/>
+    id="id-81ba973381a4439a95e02b0e5c0c1328"
+    documentation="as a medium term goal, define and document all the business processes and identify processes that can be automated with BPM Tools"/>
