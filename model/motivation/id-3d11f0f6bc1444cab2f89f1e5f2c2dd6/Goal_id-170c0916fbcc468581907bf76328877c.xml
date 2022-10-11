@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Lng) OETC Business process integration"
-    id="id-170c0916fbcc468581907bf76328877c"/>
+    id="id-170c0916fbcc468581907bf76328877c"
+    documentation="Long term Business Process management goal should include, complete business process automation with the help of BPM Tools  and a well defined Enterprise Architecture Process Framework "/>

@@ -1,4 +1,5 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Disconnected processes"
-    id="id-b2476fea89634b7991c7763fd05ca2a0"/>
+    id="id-b2476fea89634b7991c7763fd05ca2a0"
+    documentation="As per the interviews, the business processes are often not connected each others and, as consequence, the end-to-end processes includes manual informnation exchanges"/>

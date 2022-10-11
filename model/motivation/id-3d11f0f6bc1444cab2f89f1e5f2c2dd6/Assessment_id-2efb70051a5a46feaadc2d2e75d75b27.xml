@@ -1,4 +1,5 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Unpredictable failures"
-    id="id-2efb70051a5a46feaadc2d2e75d75b27"/>
+    id="id-2efb70051a5a46feaadc2d2e75d75b27"
+    documentation="as per the current assessment unpredictable service failure has been detected "/>

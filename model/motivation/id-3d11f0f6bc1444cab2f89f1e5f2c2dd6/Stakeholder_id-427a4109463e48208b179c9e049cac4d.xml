@@ -1,4 +1,5 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Customers"
-    id="id-427a4109463e48208b179c9e049cac4d"/>
+    id="id-427a4109463e48208b179c9e049cac4d"
+    documentation="Customer as a stakeholder has the direct influence on OETC revenue "/>
