@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Phasor Measurement Unit - PMU"
-    id="id-09d10519ebbf4849904430019cdc2475"
-    documentation="A phasor measurement unit (PMU) measures the phasor values of current and voltage. These values get a high precision time stamp and together with the values of power frequency, power frequency change rate and optional binary data that are also time stamped are transmitted to a central analysis station"/>
