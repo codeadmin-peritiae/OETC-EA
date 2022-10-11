@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Elastic Computing Cloud Region 1"
-    id="id-2054187672c848beb3e3947b86e69c03"/>
+    id="id-2054187672c848beb3e3947b86e69c03"
+    documentation="Primary ECC Region"/>
