@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hitachi SCADA manager - Hitachi (BCC)"
+    name="Hitachi SCADA manager - Hitachi (OT-DR)"
     id="id-018ba36f9e604bbeabf7d3e64549b68e"
     documentation="Network Manager SCADA (Supervisory Control And Data Acquisition) is a real-time, cyber secure platform for a wide range of control and monitoring applications. The solution is designed for mission-critical applications that demand high performance and availability, such as power generation, transmission and distribution system"/>

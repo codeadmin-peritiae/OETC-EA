@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Siemens SCADA  (BCC)"
+    name="Siemens SCADA  (OT-DR)"
     id="id-98bd43e15d3040efa0c4c212c2640961"
     documentation="SIMATIC SCADA systems bring together data from different subsystems and help create a unique and solid database. You can aggregate and centrally archive data and access important information anytime, anywhere. With SIMATIC SCADA, you establish the basis for reliable and efficient operation of plants, consistent product quality, high availability and optimum resource efficiency. Together with an optimum user-friendly HMI design, you benefit from greater reliability and efficiency in your plants.&#xD;&#xA;&#xD;&#xA;https://assets.new.siemens.com/siemens/assets/api/uuid:48100bcd-41c5-4594-9132-48611270ca7a/dffa-b10338-01-7600-simatic-scada-systems-broschuere-144.pdf?ste_sid=e17157e9373805c7796cd9733df1e37c&#xD;&#xA;&#xD;&#xA;https://new.siemens.com/global/en/products/automation/industrial-communication/smart-grid-electric-power-utilities/substation-automation.html?gclid=CjwKCAjwsMGYBhAEEiwAGUXJaXw70RI0x2m8px4bgaTVhAjNHpR2P8au6jMWOE2kkz5OlVl594AmDRoCDrkQAvD_BwE&amp;acz=1"/>
