@@ -87,4 +87,32 @@
         xsi:type="archimate:Facility"
         href="Facility_id-1c18117e807a41fc93407cdac24677a2.xml#id-1c18117e807a41fc93407cdac24677a2"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-76a019618d834e4bbdbe339fbe68514f"
+      lineColor="#5c5c5c"
+      fillColor="#c9e7b7">
+    <bounds
+        x="360"
+        y="69"
+        width="184"
+        height="104"/>
+    <archimateElement
+        xsi:type="archimate:Facility"
+        href="Facility_id-495571d72daf46b1886ef8f251c2c6f8.xml#id-495571d72daf46b1886ef8f251c2c6f8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5cc39b3bc7594d2d8b80b4298b9abe3c"
+      lineColor="#5c5c5c"
+      fillColor="#c9e7b7">
+    <bounds
+        x="360"
+        y="228"
+        width="184"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Facility"
+        href="Facility_id-a84f52b8ddca4ad68effa9ebca31ec2e.xml#id-a84f52b8ddca4ad68effa9ebca31ec2e"/>
+  </children>
 </archimate:ArchimateDiagramModel>

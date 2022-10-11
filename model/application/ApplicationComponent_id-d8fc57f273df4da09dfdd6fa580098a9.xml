@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wide Area Management System (WAMS) - GE (Salalah)"
+    id="id-d8fc57f273df4da09dfdd6fa580098a9"
+    documentation="WAMS provides visibility that is based on real-time data streamed from Phasor Measurement Units (PMU). A host of WAMS software applications use this data to provide context-specific information, presented through an intuitive user interface. GE’s WAMS solution complements traditional SCADA-based energy management to deliver fast and proactive grid stability management to meet the complex challenges of modern power systems.&#xD;&#xA;&#xD;&#xA;https://www.ge.com/digital/applications/transmission/wide-area-management-system-and-control-wams-wamc&#xD;&#xA;https://www.ge.com/digital/sites/default/files/download_assets/wams-overview-from-ge-digital.pdf"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toshiba SCADA  (BCC)"
+    id="id-e5ea7caba3d24145b0a13406e348b593"
+    documentation="https://www.global.toshiba/ww/products-solutions/railway/power-supply/power-supply-system.html&#xD;&#xA;&#xD;&#xA;There are two types of power management systems that can be adopted depending on the number of substations that will be managed. (1) A client/server type that uses a general-purpose server as the central processing unit is adopted for large-scale systems, and (2) a server-less type is adopted for small-scale systems to automatically monitor and control the power system, thereby realizing quick and safe processing.Toshiba is constructing a system through the use of highly reliable remote terminal units between control stations and substations, and through the use of control panels, which carry out reliable equipment control, at the substations."/>
