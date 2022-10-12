@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Med) Oracle Big Data SQL"
+    name="(Mid) Oracle Big Data SQL"
     id="id-94196abbb35a4589a8fde0a42e22ced0"
     documentation="As effect of a NSS evolution of the Oracle platform, all the function of the ERP are fully integrated and bsed on the &quot;Big-data SQL&quot; engine, and this enables Big-data analytics on company data."/>

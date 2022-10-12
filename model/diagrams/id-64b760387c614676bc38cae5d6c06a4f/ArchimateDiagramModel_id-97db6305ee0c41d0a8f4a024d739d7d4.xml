@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BSS-Medium cView"
+    name="BSS-Middle cView"
     id="id-97db6305ee0c41d0a8f4a024d739d7d4"
     documentation="To improve efficiency and flexibility, core-business related applications are under the direct control of OETC-ICT and &quot;general-purpose&quot; application are centrlly provided by NSS.">
   <children
