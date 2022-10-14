@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distance"
+    id="id-3f9858e771a84712b636516340cc4792"
+    documentation="Both of the DC are located in Muscat. It looks like the distance between them is not enogh to allow the secondary to be a &quot;Disaster Recovery&quot; DC, Usually the minimum distance is 50km."/>
