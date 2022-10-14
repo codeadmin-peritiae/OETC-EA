@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partial DR"
+    id="id-01c24518662343a5810b96e3ea67a94d"
+    documentation="This site can manage the Dophar network only (cannot manage the North country network)&#xA;"/>
