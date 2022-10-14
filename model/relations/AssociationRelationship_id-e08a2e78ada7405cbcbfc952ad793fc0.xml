@@ -6,6 +6,6 @@
       xsi:type="archimate:Assessment"
       href="Assessment_id-3f9858e771a84712b636516340cc4792.xml#id-3f9858e771a84712b636516340cc4792"/>
   <target
-      xsi:type="archimate:Location"
-      href="Location_id-546d29c328144364a48cbbc864a361b6.xml#id-546d29c328144364a48cbbc864a361b6"/>
+      xsi:type="archimate:TechnologyCollaboration"
+      href="TechnologyCollaboration_id-ffa2de38ef9943f9b09809b426b9953c.xml#id-ffa2de38ef9943f9b09809b426b9953c"/>
 </archimate:AssociationRelationship>

@@ -6,8 +6,8 @@
     directed="true">
   <source
       xsi:type="archimate:TechnologyCollaboration"
-      href="TechnologyCollaboration_id-9846b2a80c5142548578c3d1579344e2.xml#id-9846b2a80c5142548578c3d1579344e2"/>
+      href="TechnologyCollaboration_id-ffa2de38ef9943f9b09809b426b9953c.xml#id-ffa2de38ef9943f9b09809b426b9953c"/>
   <target
       xsi:type="archimate:Location"
-      href="Location_id-546d29c328144364a48cbbc864a361b6.xml#id-546d29c328144364a48cbbc864a361b6"/>
+      href="Location_id-9c2ff36b25ed44a8bc475af4ef0473a9.xml#id-9c2ff36b25ed44a8bc475af4ef0473a9"/>
 </archimate:AssociationRelationship>

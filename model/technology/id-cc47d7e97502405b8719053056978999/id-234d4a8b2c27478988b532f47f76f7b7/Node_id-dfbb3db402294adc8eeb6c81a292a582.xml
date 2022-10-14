@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OT-DR Virtual Desktop Infrastructure"
+    name="Secondary Virtual Desktop Infrastructure"
     id="id-dfbb3db402294adc8eeb6c81a292a582"
     documentation="New virtual desktop infrastructure is going to serve previus PC-based applications --> hig availability / business continuity"/>
