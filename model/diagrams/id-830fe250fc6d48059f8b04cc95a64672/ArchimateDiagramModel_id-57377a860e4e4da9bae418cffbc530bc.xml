@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DSS-Long-term cView"
+    id="id-57377a860e4e4da9bae418cffbc530bc">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-71d109ed9b534654b111637364b81691"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <bounds
+        x="60"
+        y="48"
+        width="265"
+        height="181"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5d40b080792d4998b6010a2d64d431c9">
+      <bounds
+          x="24"
+          y="36"
+          width="168"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationCollaboration"
+          href="ApplicationCollaboration_id-ec5bc1fcabd64d77955f9794adefaf74.xml#id-ec5bc1fcabd64d77955f9794adefaf74"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1ffe2d01f39246719cd3c5d698bc3e75"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <bounds
+          x="24"
+          y="108"
+          width="168"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-94196abbb35a4589a8fde0a42e22ced0.xml#id-94196abbb35a4589a8fde0a42e22ced0"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-3b8ac3c300a44f60ac143134ccf65ab5.xml#id-3b8ac3c300a44f60ac143134ccf65ab5"/>
+  </children>
+</archimate:ArchimateDiagramModel>
