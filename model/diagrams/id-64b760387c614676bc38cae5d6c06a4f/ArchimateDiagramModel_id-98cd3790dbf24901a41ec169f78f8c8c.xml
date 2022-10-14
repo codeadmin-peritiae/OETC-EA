@@ -27,7 +27,7 @@
           href="AssociationRelationship_id-a2164242b1b44b9180b29219552e5aeb.xml#id-a2164242b1b44b9180b29219552e5aeb"/>
     </sourceConnections>
     <bounds
-        x="781"
+        x="1321"
         y="576"
         width="120"
         height="55"/>
@@ -93,7 +93,7 @@
           href="AssociationRelationship_id-06feb8d5020c4242be57eca9cec968cb.xml#id-06feb8d5020c4242be57eca9cec968cb"/>
     </sourceConnections>
     <bounds
-        x="1380"
+        x="1920"
         y="576"
         width="163"
         height="55"/>
@@ -106,7 +106,7 @@
       id="id-72d1dc85e93541d582538fb96de92cdc"
       targetConnections="id-e42efd2cb0754590968e2a238dd127a3 id-1594cac161784d3da0be9f2f2860a665">
     <bounds
-        x="1343"
+        x="1883"
         y="796"
         width="120"
         height="55"/>
@@ -137,7 +137,7 @@
           href="CompositionRelationship_id-477a00b6bdb345c0b37fa8eca7dcaff9.xml#id-477a00b6bdb345c0b37fa8eca7dcaff9"/>
     </sourceConnections>
     <bounds
-        x="1641"
+        x="2181"
         y="796"
         width="146"
         height="55"/>
@@ -150,7 +150,7 @@
       id="id-319e120f6dc9462f9bb45ea0f826ca12"
       targetConnections="id-62a4568a2c6c478fbb643603b2de5d1f id-dac7ceca10c54dda99a6dae75c0a671f id-dcc1abd079324af79b3b1d1f945d8a89">
     <bounds
-        x="1488"
+        x="2028"
         y="796"
         width="120"
         height="55"/>
@@ -181,7 +181,7 @@
           href="AssociationRelationship_id-8c9a41bd2a1641938e5845af5252146c.xml#id-8c9a41bd2a1641938e5845af5252146c"/>
     </sourceConnections>
     <bounds
-        x="1402"
+        x="1942"
         y="1068"
         width="120"
         height="55"/>
@@ -223,7 +223,7 @@
           href="AssociationRelationship_id-cb8e64273a364c9ea2179eb1f94858b5.xml#id-cb8e64273a364c9ea2179eb1f94858b5"/>
     </sourceConnections>
     <bounds
-        x="1203"
+        x="1743"
         y="1200"
         width="133"
         height="55"/>
@@ -236,7 +236,7 @@
       id="id-c8bfcce3ebad45cbb4d12a705e3b1e62"
       targetConnections="id-f36f0917bf0e480bacb75e2d00b0a1f5 id-8ac5d00dca3842ff88231a6108d8ee40">
     <bounds
-        x="1821"
+        x="2361"
         y="796"
         width="133"
         height="55"/>
@@ -276,7 +276,7 @@
           href="AssociationRelationship_id-606c5cd79f0349eebdf54548c18d92ed.xml#id-606c5cd79f0349eebdf54548c18d92ed"/>
     </sourceConnections>
     <bounds
-        x="1442"
+        x="1982"
         y="1200"
         width="120"
         height="55"/>
@@ -306,7 +306,7 @@
           href="InfluenceRelationship_id-3d5b05d1855b41ea909a8f3ff9205e32.xml#id-3d5b05d1855b41ea909a8f3ff9205e32"/>
     </sourceConnections>
     <bounds
-        x="1821"
+        x="2361"
         y="1068"
         width="133"
         height="55"/>
@@ -355,7 +355,7 @@
           href="CompositionRelationship_id-62b38bfc323540e2a20bb528c43b7cb0.xml#id-62b38bfc323540e2a20bb528c43b7cb0"/>
     </sourceConnections>
     <bounds
-        x="576"
+        x="1116"
         y="796"
         width="156"
         height="55"/>
@@ -368,7 +368,7 @@
       id="id-2c6695f67c454133a66c6e8d40593da0"
       targetConnections="id-8b295e678f23479bbec584a54a5213b4 id-adf82fc519094b70bad3c36a3e6b6edd">
     <bounds
-        x="1722"
+        x="2262"
         y="916"
         width="120"
         height="55"/>
@@ -381,7 +381,7 @@
       id="id-c0d95119db9342c68d8a782cca70b34f"
       targetConnections="id-5205bd048bad45c3ac8da688beab3044 id-ed45cb8878604c299d4100ddfaa4cf34">
     <bounds
-        x="1561"
+        x="2101"
         y="916"
         width="120"
         height="55"/>
@@ -421,7 +421,7 @@
           href="AssociationRelationship_id-43f14ac2e522445595394d249a1cc23f.xml#id-43f14ac2e522445595394d249a1cc23f"/>
     </sourceConnections>
     <bounds
-        x="1561"
+        x="2101"
         y="1068"
         width="120"
         height="55"/>
@@ -444,7 +444,7 @@
           href="AssociationRelationship_id-ae1f9024845d4289adc7745dbaa0d997.xml#id-ae1f9024845d4289adc7745dbaa0d997"/>
     </sourceConnections>
     <bounds
-        x="756"
+        x="1296"
         y="920"
         width="120"
         height="55"/>
@@ -466,7 +466,7 @@
           href="AssociationRelationship_id-df417acd874a4db99c3e45b5f7bf4ed6.xml#id-df417acd874a4db99c3e45b5f7bf4ed6"/>
     </sourceConnections>
     <bounds
-        x="802"
+        x="1342"
         y="794"
         width="120"
         height="55"/>
@@ -489,7 +489,7 @@
           href="AssociationRelationship_id-d1edec52d22f419b81d1d7ffed3f974e.xml#id-d1edec52d22f419b81d1d7ffed3f974e"/>
     </sourceConnections>
     <bounds
-        x="594"
+        x="1134"
         y="576"
         width="120"
         height="55"/>
@@ -502,7 +502,7 @@
       id="id-692179925ab040f5b531ae7f2d5b5dcc"
       targetConnections="id-cdf927a6e12e4c37a6bb07c49be3f125 id-b0990732c132421ca21a9454f3bcb972">
     <bounds
-        x="1845"
+        x="2385"
         y="682"
         width="133"
         height="55"/>
@@ -525,7 +525,7 @@
           href="AssociationRelationship_id-d4b52ffbd044468b939fa9babff63e85.xml#id-d4b52ffbd044468b939fa9babff63e85"/>
     </sourceConnections>
     <bounds
-        x="444"
+        x="984"
         y="920"
         width="120"
         height="55"/>
@@ -556,7 +556,7 @@
           href="AssociationRelationship_id-b26b2e17812e42579c79e79bc37c14fe.xml#id-b26b2e17812e42579c79e79bc37c14fe"/>
     </sourceConnections>
     <bounds
-        x="1008"
+        x="1548"
         y="682"
         width="150"
         height="55"/>
@@ -578,7 +578,7 @@
           href="AssociationRelationship_id-0be4c2c26edb4c09bf1ce1e1943ae4c7.xml#id-0be4c2c26edb4c09bf1ce1e1943ae4c7"/>
     </sourceConnections>
     <bounds
-        x="1212"
+        x="1752"
         y="682"
         width="150"
         height="55"/>
@@ -591,7 +591,7 @@
       id="id-b76be286802f4de686dca93a8f5266fb"
       targetConnections="id-1532074d52df4b069f263ca628c0ac9f id-80ac8958830641dbb7a954914e5bc069 id-a6b8d1f2c2aa4327b242c268d88ff801">
     <bounds
-        x="1176"
+        x="1716"
         y="1068"
         width="120"
         height="55"/>
@@ -622,7 +622,7 @@
           href="CompositionRelationship_id-2547599fee9c404c85410bc29f28b281.xml#id-2547599fee9c404c85410bc29f28b281"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="1440"
         y="1068"
         width="120"
         height="55"/>
@@ -657,7 +657,7 @@
           href="AssociationRelationship_id-250cc41468a945b5818a95c148bbdf7a.xml#id-250cc41468a945b5818a95c148bbdf7a"/>
     </sourceConnections>
     <bounds
-        x="289"
+        x="829"
         y="796"
         width="120"
         height="55"/>
@@ -692,7 +692,7 @@
           href="InfluenceRelationship_id-3bc454b8f5c345b19035c95e335c268a.xml#id-3bc454b8f5c345b19035c95e335c268a"/>
     </sourceConnections>
     <bounds
-        x="528"
+        x="1068"
         y="1362"
         width="128"
         height="55"/>
@@ -707,7 +707,7 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="204"
+        x="744"
         y="1368"
         width="120"
         height="55"/>
@@ -722,7 +722,7 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="1561"
+        x="2101"
         y="1368"
         width="120"
         height="55"/>
@@ -747,7 +747,7 @@
           href="AssociationRelationship_id-d13abf55566c4dda8f2e75d1817cafb0.xml#id-d13abf55566c4dda8f2e75d1817cafb0"/>
     </sourceConnections>
     <bounds
-        x="1080"
+        x="1620"
         y="1440"
         width="120"
         height="55"/>
@@ -772,7 +772,7 @@
           href="RealizationRelationship_id-a1a399ab206f42bf817cc5b4f99e5093.xml#id-a1a399ab206f42bf817cc5b4f99e5093"/>
     </sourceConnections>
     <bounds
-        x="95"
+        x="635"
         y="1836"
         width="120"
         height="55"/>
@@ -807,7 +807,7 @@
           href="CompositionRelationship_id-5109b12a60c54fa490c2162353282cdc.xml#id-5109b12a60c54fa490c2162353282cdc"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="1440"
         y="1368"
         width="120"
         height="55"/>
@@ -842,7 +842,7 @@
           href="RealizationRelationship_id-8f9b31b28df04496a02aeb2f010fabab.xml#id-8f9b31b28df04496a02aeb2f010fabab"/>
     </sourceConnections>
     <bounds
-        x="238"
+        x="778"
         y="1626"
         width="120"
         height="55"/>
@@ -853,6 +853,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bf8e940b938b4713b1e7264a72491376"
+      targetConnections="id-ea70769fc6bf452ebf4cf208454eafb8 id-753c14442dfd4ab48ca20cc20ec37e64"
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
     <sourceConnections
@@ -876,7 +877,7 @@
           href="RealizationRelationship_id-7244301862fd4056a714e00a0b3cb117.xml#id-7244301862fd4056a714e00a0b3cb117"/>
     </sourceConnections>
     <bounds
-        x="-156"
+        x="384"
         y="1836"
         width="156"
         height="55"/>
@@ -891,7 +892,7 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="-48"
+        x="492"
         y="1368"
         width="144"
         height="55"/>
@@ -955,7 +956,7 @@
           href="CompositionRelationship_id-23f63321d18d4561bcffaf34a5429f00.xml#id-23f63321d18d4561bcffaf34a5429f00"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="1440"
         y="1836"
         width="120"
         height="55"/>
@@ -990,7 +991,7 @@
           href="RealizationRelationship_id-44de1c74a1db4faa81b5a86c1059192b.xml#id-44de1c74a1db4faa81b5a86c1059192b"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="1440"
         y="1626"
         width="120"
         height="55"/>
@@ -1014,7 +1015,7 @@
           href="AssociationRelationship_id-8e808373d7e1447595f978eb9ab8eb1c.xml#id-8e808373d7e1447595f978eb9ab8eb1c"/>
     </sourceConnections>
     <bounds
-        x="781"
+        x="1321"
         y="450"
         width="120"
         height="55"/>
@@ -1029,7 +1030,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
     <bounds
-        x="684"
+        x="1224"
         y="1944"
         width="168"
         height="55"/>
@@ -1044,7 +1045,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
     <bounds
-        x="1080"
+        x="1620"
         y="1944"
         width="120"
         height="55"/>
@@ -1059,7 +1060,7 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="-204"
+        x="336"
         y="1368"
         width="120"
         height="55"/>
@@ -1075,10 +1076,9 @@
       textAlignment="1"
       fillColor="#d2d7d7">
     <bounds
-        x="-444"
-        y="48"
-        width="2905"
-        height="348"/>
+        x="-792"
+        width="3793"
+        height="373"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b0af3ad0ef53408596410424cc360bac"
@@ -1115,7 +1115,7 @@
             href="AssociationRelationship_id-9290b940efb94097a49ba30e702aff84.xml#id-9290b940efb94097a49ba30e702aff84"/>
       </sourceConnections>
       <bounds
-          x="2040"
+          x="2928"
           y="252"
           width="154"
           height="55"/>
@@ -1137,7 +1137,7 @@
             href="AssociationRelationship_id-664ba9fe74d742e79eb5586ac08fb2cb.xml#id-664ba9fe74d742e79eb5586ac08fb2cb"/>
       </sourceConnections>
       <bounds
-          x="1812"
+          x="2700"
           y="198"
           width="120"
           height="55"/>
@@ -1159,7 +1159,7 @@
             href="AssociationRelationship_id-b2cd020103ee4b678b8b28e633f1f2cd.xml#id-b2cd020103ee4b678b8b28e633f1f2cd"/>
       </sourceConnections>
       <bounds
-          x="1620"
+          x="2508"
           y="198"
           width="120"
           height="55"/>
@@ -1190,7 +1190,7 @@
             href="AssociationRelationship_id-5868eb1fecdc414f96404b594ffdc53d.xml#id-5868eb1fecdc414f96404b594ffdc53d"/>
       </sourceConnections>
       <bounds
-          x="1404"
+          x="2292"
           y="198"
           width="120"
           height="55"/>
@@ -1214,7 +1214,7 @@
             href="AggregationRelationship_id-3db96cabdaf748e2b08a8b544759cea4.xml#id-3db96cabdaf748e2b08a8b544759cea4"/>
       </sourceConnections>
       <bounds
-          x="372"
+          x="1260"
           y="252"
           width="146"
           height="55"/>
@@ -1239,7 +1239,7 @@
             href="RealizationRelationship_id-c253cd833ec44907b2a2ee119c2dd645.xml#id-c253cd833ec44907b2a2ee119c2dd645"/>
       </sourceConnections>
       <bounds
-          x="528"
+          x="1416"
           y="156"
           width="120"
           height="55"/>
@@ -1273,7 +1273,7 @@
             href="RealizationRelationship_id-9cb13644ccee4c308be598747d7b42b7.xml#id-9cb13644ccee4c308be598747d7b42b7"/>
       </sourceConnections>
       <bounds
-          x="528"
+          x="1416"
           y="252"
           width="120"
           height="55"/>
@@ -1298,7 +1298,7 @@
             href="AssociationRelationship_id-622c96ec2b4c436684ece2715d401f80.xml#id-622c96ec2b4c436684ece2715d401f80"/>
       </sourceConnections>
       <bounds
-          x="792"
+          x="1680"
           y="114"
           width="120"
           height="55"/>
@@ -1322,7 +1322,7 @@
             href="AggregationRelationship_id-5c0ba06222eb4f6e88aabc0068c753d0.xml#id-5c0ba06222eb4f6e88aabc0068c753d0"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="1092"
           y="252"
           width="157"
           height="55"/>
@@ -1346,7 +1346,7 @@
             href="CompositionRelationship_id-0a072f6c072e4c2b99aed4ecd6050d4c.xml#id-0a072f6c072e4c2b99aed4ecd6050d4c"/>
       </sourceConnections>
       <bounds
-          x="60"
+          x="948"
           y="252"
           width="120"
           height="55"/>
@@ -1381,7 +1381,7 @@
             href="CompositionRelationship_id-e3e3c84019f54484a7ccf713eab01b6e.xml#id-e3e3c84019f54484a7ccf713eab01b6e"/>
       </sourceConnections>
       <bounds
-          x="588"
+          x="1476"
           y="60"
           width="158"
           height="55"/>
@@ -1416,7 +1416,7 @@
             href="CompositionRelationship_id-c1e758efdc224040a377c3f4d009146d.xml#id-c1e758efdc224040a377c3f4d009146d"/>
       </sourceConnections>
       <bounds
-          x="1008"
+          x="1896"
           y="228"
           width="120"
           height="55"/>
@@ -1450,7 +1450,7 @@
             href="AssociationRelationship_id-7af80fefc848495c88d9a6d3ed3cb4cd.xml#id-7af80fefc848495c88d9a6d3ed3cb4cd"/>
       </sourceConnections>
       <bounds
-          x="828"
+          x="1716"
           y="228"
           width="120"
           height="55"/>
@@ -1475,7 +1475,7 @@
             href="AssociationRelationship_id-8549cedda73a4e1090858a2b695ec3e6.xml#id-8549cedda73a4e1090858a2b695ec3e6"/>
       </sourceConnections>
       <bounds
-          x="2412"
+          x="3300"
           y="252"
           width="151"
           height="55"/>
@@ -1490,7 +1490,7 @@
         lineColor="#5c5c5c"
         fillColor="#ccccff">
       <bounds
-          x="2244"
+          x="3132"
           y="252"
           width="120"
           height="55"/>
@@ -1514,7 +1514,7 @@
             href="AssociationRelationship_id-92a9d67185b04b15af7c3d3b7ea22983.xml#id-92a9d67185b04b15af7c3d3b7ea22983"/>
       </sourceConnections>
       <bounds
-          x="2244"
+          x="3132"
           y="144"
           width="120"
           height="55"/>
@@ -1538,7 +1538,7 @@
             href="AssociationRelationship_id-72eaec590f884df8980fdf430ca08755.xml#id-72eaec590f884df8980fdf430ca08755"/>
       </sourceConnections>
       <bounds
-          x="2424"
+          x="3312"
           y="144"
           width="120"
           height="55"/>
@@ -1572,7 +1572,7 @@
             href="AssociationRelationship_id-ef9ac86931e64576b347eeef5359f851.xml#id-ef9ac86931e64576b347eeef5359f851"/>
       </sourceConnections>
       <bounds
-          x="2772"
+          x="3660"
           y="252"
           width="120"
           height="55"/>
@@ -1597,13 +1597,310 @@
             href="CompositionRelationship_id-31e3cdd8d2e143a6a09857010a271db2.xml#id-31e3cdd8d2e143a6a09857010a271db2"/>
       </sourceConnections>
       <bounds
-          x="2628"
+          x="3516"
           y="252"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-b18530e1f97d426fbcf51fde1cc3eefb.xml#id-b18530e1f97d426fbcf51fde1cc3eefb"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ce40c2d235264f4dadbc1cff6d071062"
+        lineColor="#5c5c5c"
+        fillColor="#ccccff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a2d4e95eba0546659dbb38aa2a469a0a"
+          lineColor="#000000"
+          source="id-ce40c2d235264f4dadbc1cff6d071062"
+          target="id-66cc7cf5004f486eb78a430b420e6ba8">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-ea482439fd854f7785f422faea43bedc.xml#id-ea482439fd854f7785f422faea43bedc"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-86db4459f6d04b37bf8ce353e1379895"
+          lineColor="#000000"
+          source="id-ce40c2d235264f4dadbc1cff6d071062"
+          target="id-45bbaef8f4c548b4b5fe5d547e605d08">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-e7dcc3cdc3f84a049ccc2f93dde3bbcf.xml#id-e7dcc3cdc3f84a049ccc2f93dde3bbcf"/>
+      </sourceConnections>
+      <bounds
+          x="588"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Driver"
+          href="Driver_id-77b14b6aa8f848248409dbc4d57e2396.xml#id-77b14b6aa8f848248409dbc4d57e2396"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-66cc7cf5004f486eb78a430b420e6ba8"
+        targetConnections="id-a2d4e95eba0546659dbb38aa2a469a0a id-88ceb5736e7441fd94c056d6edf6bd42"
+        lineColor="#5c5c5c"
+        fillColor="#ccccff">
+      <bounds
+          x="432"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Driver"
+          href="Driver_id-4f1f7515d8824f228d3a0e03b1c21e81.xml#id-4f1f7515d8824f228d3a0e03b1c21e81"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-45bbaef8f4c548b4b5fe5d547e605d08"
+        targetConnections="id-86db4459f6d04b37bf8ce353e1379895 id-424e9ab112cb41be814fa6cfa5460eee"
+        lineColor="#5c5c5c"
+        fillColor="#ccccff">
+      <bounds
+          x="732"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Driver"
+          href="Driver_id-894c52ef77414584b7353881f3388a0e.xml#id-894c52ef77414584b7353881f3388a0e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3fc5930de4444878b3675e62f315717d"
+        targetConnections="id-be121b6625804f39ba9b4b7b66ca8eed"
+        lineColor="#5c5c5c"
+        fillColor="#d4fb78">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-17cdc744bb6d4bfe8282b6bf16a1cc2e"
+          lineColor="#000000"
+          source="id-3fc5930de4444878b3675e62f315717d"
+          target="id-786a212c6c2248ed860419d77080ac81">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-bf7e862b4b8e47adad3bd09a408ef964.xml#id-bf7e862b4b8e47adad3bd09a408ef964"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-98b76e94d1c941799825d822233b848a"
+          lineColor="#000000"
+          source="id-3fc5930de4444878b3675e62f315717d"
+          target="id-96abdb9b4b3948528a978924237380b2">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-8123e70099c34476ba29aa27fb955890.xml#id-8123e70099c34476ba29aa27fb955890"/>
+      </sourceConnections>
+      <bounds
+          x="432"
+          y="300"
+          width="146"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-bb6119eefe68441ca5573616e17b24f3.xml#id-bb6119eefe68441ca5573616e17b24f3"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c31813b6246d4243a789d99572492879"
+        targetConnections="id-ac59f6b9582f47a6b1b0df033eedbc49"
+        lineColor="#5c5c5c"
+        fillColor="#d4fb78">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-41196d78fa864676ab1eb7b0db051ea4"
+          lineColor="#000000"
+          source="id-c31813b6246d4243a789d99572492879"
+          target="id-b35dfd8ef5ed4cb4ad86bf2111fe7c1e">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-c75450779b9547709151093c2bee6933.xml#id-c75450779b9547709151093c2bee6933"/>
+      </sourceConnections>
+      <bounds
+          x="84"
+          y="300"
+          width="144"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-756e4904c3274917b4b02431fffef867.xml#id-756e4904c3274917b4b02431fffef867"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-fff00b48254940b3b26a40505f41c3f1"
+        lineColor="#5c5c5c"
+        fillColor="#d4fb78">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-424e9ab112cb41be814fa6cfa5460eee"
+          lineColor="#000000"
+          source="id-fff00b48254940b3b26a40505f41c3f1"
+          target="id-45bbaef8f4c548b4b5fe5d547e605d08">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-282b720e3f6c4f38b2319b8a8d87400b.xml#id-282b720e3f6c4f38b2319b8a8d87400b"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-8040494d6a344b93911509620533843e"
+          lineColor="#000000"
+          source="id-fff00b48254940b3b26a40505f41c3f1"
+          target="id-f4b2c2621853427f819acfd7b492edeb">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-430eeed83a0144cdaa05c5b85b7ca212.xml#id-430eeed83a0144cdaa05c5b85b7ca212"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-eb4a5c82ecbc47f0b7e41bb24c01215f"
+          lineColor="#000000"
+          source="id-fff00b48254940b3b26a40505f41c3f1"
+          target="id-792f7473ca634c068da839c2db1d0b40">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-693d6a4f19854827a52b19e0f2925e34.xml#id-693d6a4f19854827a52b19e0f2925e34"/>
+      </sourceConnections>
+      <bounds
+          x="672"
+          y="198"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-5a4a8965236045c99bfe7ffa3df1bff4.xml#id-5a4a8965236045c99bfe7ffa3df1bff4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-fa3c5a837c1949ddbaa2cb20b0dc6eb2"
+        lineColor="#5c5c5c"
+        fillColor="#d4fb78">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-88ceb5736e7441fd94c056d6edf6bd42"
+          lineColor="#000000"
+          source="id-fa3c5a837c1949ddbaa2cb20b0dc6eb2"
+          target="id-66cc7cf5004f486eb78a430b420e6ba8">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-3fe5e7cd06a9415c978d26247dad57b4.xml#id-3fe5e7cd06a9415c978d26247dad57b4"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-be121b6625804f39ba9b4b7b66ca8eed"
+          lineColor="#000000"
+          source="id-fa3c5a837c1949ddbaa2cb20b0dc6eb2"
+          target="id-3fc5930de4444878b3675e62f315717d">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-06975fccf7e444749b5dfa3ca17182e6.xml#id-06975fccf7e444749b5dfa3ca17182e6"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-ac59f6b9582f47a6b1b0df033eedbc49"
+          lineColor="#000000"
+          source="id-fa3c5a837c1949ddbaa2cb20b0dc6eb2"
+          target="id-c31813b6246d4243a789d99572492879">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-af73f24d148240bda9484b456505e3bb.xml#id-af73f24d148240bda9484b456505e3bb"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c58fa1afbba943eabc585e3b6c7073be"
+          lineColor="#000000"
+          source="id-fa3c5a837c1949ddbaa2cb20b0dc6eb2"
+          target="id-0476444115414f829964ee84d56f6953">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-d5e3d97c0c76401f882f8fe1416368d2.xml#id-d5e3d97c0c76401f882f8fe1416368d2"/>
+      </sourceConnections>
+      <bounds
+          x="396"
+          y="198"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-3d25cd95a0cc44c68998ce97a4f8f532.xml#id-3d25cd95a0cc44c68998ce97a4f8f532"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f4b2c2621853427f819acfd7b492edeb"
+        targetConnections="id-8040494d6a344b93911509620533843e"
+        lineColor="#5c5c5c"
+        fillColor="#d4fb78">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3094dd71d5294cb6a4194552ed58e711"
+          lineColor="#000000"
+          source="id-f4b2c2621853427f819acfd7b492edeb"
+          target="id-96abdb9b4b3948528a978924237380b2">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-3f79a69b5d264414a91f38851ba9071e.xml#id-3f79a69b5d264414a91f38851ba9071e"/>
+      </sourceConnections>
+      <bounds
+          x="600"
+          y="300"
+          width="133"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-3c76facadf4d43b1b068e8b9b496a5f9.xml#id-3c76facadf4d43b1b068e8b9b496a5f9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-792f7473ca634c068da839c2db1d0b40"
+        targetConnections="id-eb4a5c82ecbc47f0b7e41bb24c01215f"
+        lineColor="#5c5c5c"
+        fillColor="#d4fb78">
+      <bounds
+          x="804"
+          y="300"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-4f655f93414443a2b5e077beced26351.xml#id-4f655f93414443a2b5e077beced26351"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0476444115414f829964ee84d56f6953"
+        targetConnections="id-c58fa1afbba943eabc585e3b6c7073be"
+        lineColor="#5c5c5c"
+        fillColor="#d4fb78">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-50a0ae30b84c4bdabbdc9d2407ee5f32"
+          lineColor="#000000"
+          source="id-0476444115414f829964ee84d56f6953"
+          target="id-b35dfd8ef5ed4cb4ad86bf2111fe7c1e">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-ea8a0bf206bf482e9512f6713e62839c.xml#id-ea8a0bf206bf482e9512f6713e62839c"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c184e962d13244f39f1ae8cfa3fd3ecc"
+          lineColor="#000000"
+          source="id-0476444115414f829964ee84d56f6953"
+          target="id-96abdb9b4b3948528a978924237380b2">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-b70a3f89b068445eafc154dbfe30c37b.xml#id-b70a3f89b068445eafc154dbfe30c37b"/>
+      </sourceConnections>
+      <bounds
+          x="252"
+          y="300"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-f71a452a8c1e410691863a38de018135.xml#id-f71a452a8c1e410691863a38de018135"/>
     </children>
   </children>
   <children
@@ -1613,8 +1910,8 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="-372"
-        y="1368"
+        x="168"
+        y="1188"
         width="120"
         height="55"/>
     <archimateElement
@@ -1638,7 +1935,7 @@
           href="RealizationRelationship_id-efed3bed57c9450780b609cb082eef92.xml#id-efed3bed57c9450780b609cb082eef92"/>
     </sourceConnections>
     <bounds
-        x="-360"
+        x="180"
         y="1944"
         width="120"
         height="55"/>
@@ -1672,7 +1969,7 @@
           href="RealizationRelationship_id-b52974c826684a33878a0c03b0e7080a.xml#id-b52974c826684a33878a0c03b0e7080a"/>
     </sourceConnections>
     <bounds
-        x="2005"
+        x="2545"
         y="1944"
         width="142"
         height="55"/>
@@ -1706,7 +2003,7 @@
           href="AssociationRelationship_id-235444ca1bc14d28b7de466c62b9054a.xml#id-235444ca1bc14d28b7de466c62b9054a"/>
     </sourceConnections>
     <bounds
-        x="2016"
+        x="2556"
         y="1068"
         width="120"
         height="55"/>
@@ -1721,7 +2018,7 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="2005"
+        x="2545"
         y="1368"
         width="142"
         height="55"/>
@@ -1736,7 +2033,7 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="2354"
+        x="2894"
         y="1368"
         width="133"
         height="55"/>
@@ -1776,7 +2073,7 @@
           href="AssociationRelationship_id-0d7f92ea222443efb66db6db4adee232.xml#id-0d7f92ea222443efb66db6db4adee232"/>
     </sourceConnections>
     <bounds
-        x="2208"
+        x="2748"
         y="1368"
         width="120"
         height="55"/>
@@ -1800,7 +2097,7 @@
           href="RealizationRelationship_id-d9ecd2ffbc004477a5e9481942f94940.xml#id-d9ecd2ffbc004477a5e9481942f94940"/>
     </sourceConnections>
     <bounds
-        x="2361"
+        x="2901"
         y="1836"
         width="120"
         height="55"/>
@@ -1834,7 +2131,7 @@
           href="RealizationRelationship_id-f12ea0b9cce44f60a48bb8a6dbb4ecfb.xml#id-f12ea0b9cce44f60a48bb8a6dbb4ecfb"/>
     </sourceConnections>
     <bounds
-        x="2196"
+        x="2736"
         y="1836"
         width="144"
         height="55"/>
@@ -1874,7 +2171,7 @@
           href="AssociationRelationship_id-316a00454ded47dc897d6de241124d3a.xml#id-316a00454ded47dc897d6de241124d3a"/>
     </sourceConnections>
     <bounds
-        x="693"
+        x="1233"
         y="1362"
         width="120"
         height="55"/>
@@ -1889,7 +2186,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
     <bounds
-        x="693"
+        x="1233"
         y="1836"
         width="120"
         height="55"/>
@@ -1904,7 +2201,7 @@
       lineColor="#5c5c5c"
       fillColor="#d4fb78">
     <bounds
-        x="360"
+        x="900"
         y="1368"
         width="120"
         height="55"/>
@@ -1938,7 +2235,7 @@
           href="RealizationRelationship_id-0350312f64c34c76862d48aa99cf6bba.xml#id-0350312f64c34c76862d48aa99cf6bba"/>
     </sourceConnections>
     <bounds
-        x="360"
+        x="900"
         y="1836"
         width="120"
         height="55"/>
@@ -1953,12 +2250,135 @@
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
     <bounds
-        x="563"
+        x="1103"
         y="1626"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-06cdc5f5bb4d404ebb307df02290a0f6.xml#id-06cdc5f5bb4d404ebb307df02290a0f6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-786a212c6c2248ed860419d77080ac81"
+      targetConnections="id-17cdc744bb6d4bfe8282b6bf16a1cc2e id-af3c87a98a9f4737899c54d3c9dd9c81"
+      lineColor="#5c5c5c"
+      fillColor="#ffe0e0">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6de75fb27b424b988e917d65b75b6f2e"
+        lineColor="#000000"
+        source="id-786a212c6c2248ed860419d77080ac81"
+        target="id-b35dfd8ef5ed4cb4ad86bf2111fe7c1e">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-5bef435cf6c04b7091ddce586ede2e87.xml#id-5bef435cf6c04b7091ddce586ede2e87"/>
+    </sourceConnections>
+    <bounds
+        x="-612"
+        y="1836"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-9c305305e4ec479dbba9e80c9423769c.xml#id-9c305305e4ec479dbba9e80c9423769c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-131d30f11a0940b1b6dc4844f8bf4f55"
+      lineColor="#5c5c5c"
+      fillColor="#ffe0e0">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-753c14442dfd4ab48ca20cc20ec37e64"
+        lineColor="#000000"
+        source="id-131d30f11a0940b1b6dc4844f8bf4f55"
+        target="id-bf8e940b938b4713b1e7264a72491376">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-c6f0d9c953b14619b605b60f96438271.xml#id-c6f0d9c953b14619b605b60f96438271"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-67fdc6b440fb4cc18219ebdde27e85ff"
+        lineColor="#000000"
+        source="id-131d30f11a0940b1b6dc4844f8bf4f55"
+        target="id-96abdb9b4b3948528a978924237380b2">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-c8701508eae2439bb3525646b9159aab.xml#id-c8701508eae2439bb3525646b9159aab"/>
+    </sourceConnections>
+    <bounds
+        x="-288"
+        y="1836"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-913f40000337498dbf53f7fa86d7ffa0.xml#id-913f40000337498dbf53f7fa86d7ffa0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1fa7e851cd40428f9098b3f7d1a68c8f"
+      lineColor="#5c5c5c"
+      fillColor="#ffe0e0">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-af3c87a98a9f4737899c54d3c9dd9c81"
+        lineColor="#000000"
+        source="id-1fa7e851cd40428f9098b3f7d1a68c8f"
+        target="id-786a212c6c2248ed860419d77080ac81">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-b4ee8f2278a24fcb91c3a232c019c9f7.xml#id-b4ee8f2278a24fcb91c3a232c019c9f7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ea70769fc6bf452ebf4cf208454eafb8"
+        lineColor="#000000"
+        source="id-1fa7e851cd40428f9098b3f7d1a68c8f"
+        target="id-bf8e940b938b4713b1e7264a72491376">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-ac6b8aa1c22042f79e42455407218d11.xml#id-ac6b8aa1c22042f79e42455407218d11"/>
+    </sourceConnections>
+    <bounds
+        x="-612"
+        y="1944"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-95fb2294a3374d50b5182d1177cb606d.xml#id-95fb2294a3374d50b5182d1177cb606d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b35dfd8ef5ed4cb4ad86bf2111fe7c1e"
+      targetConnections="id-50a0ae30b84c4bdabbdc9d2407ee5f32 id-41196d78fa864676ab1eb7b0db051ea4 id-6de75fb27b424b988e917d65b75b6f2e"
+      lineColor="#5c5c5c"
+      fillColor="#d4fb78">
+    <bounds
+        x="-659"
+        y="1368"
+        width="142"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-7dfd913016ea47aaa86dfecd98209bd2.xml#id-7dfd913016ea47aaa86dfecd98209bd2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-96abdb9b4b3948528a978924237380b2"
+      targetConnections="id-67fdc6b440fb4cc18219ebdde27e85ff id-3094dd71d5294cb6a4194552ed58e711 id-98b76e94d1c941799825d822233b848a id-c184e962d13244f39f1ae8cfa3fd3ecc"
+      lineColor="#5c5c5c"
+      fillColor="#d4fb78">
+    <bounds
+        x="-312"
+        y="1368"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-37b561d6bc44411e809d899a45f77c7d.xml#id-37b561d6bc44411e809d899a45f77c7d"/>
   </children>
 </archimate:ArchimateDiagramModel>
