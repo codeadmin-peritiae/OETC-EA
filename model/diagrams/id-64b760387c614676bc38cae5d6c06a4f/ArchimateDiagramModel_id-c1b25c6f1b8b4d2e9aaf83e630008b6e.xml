@@ -1753,7 +1753,7 @@
       id="id-a49dbf09eac94f38b45e8c822b33daf5"
       targetConnections="id-64a0b52477b947c7918ae88907f9204f id-ee0651aab777405fb92d426d9902c89c id-91e5a35d73064a17a4966409cce4db78 id-c947941cbc0f4a61b911a9d902ac24bb">
     <bounds
-        x="1168"
+        x="1102"
         y="1074"
         width="120"
         height="55"/>
@@ -2155,8 +2155,8 @@
           href="AggregationRelationship_id-77852b83b12e43de8e4201f60b46d8c3.xml#id-77852b83b12e43de8e4201f60b46d8c3"/>
     </sourceConnections>
     <bounds
-        x="870"
-        y="630"
+        x="1025"
+        y="522"
         width="120"
         height="55"/>
     <archimateElement
