@@ -760,10 +760,10 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="216"
-          y="216"
-          width="140"
-          height="55"/>
+          x="228"
+          y="210"
+          width="178"
+          height="68"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-00cd45135733465d8116e52ec3242ff6.xml#id-00cd45135733465d8116e52ec3242ff6"/>
@@ -790,10 +790,10 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="236"
+          x="229"
           y="288"
-          width="120"
-          height="55"/>
+          width="178"
+          height="68"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-41337da9014445e5bf278293f8d2f19a.xml#id-41337da9014445e5bf278293f8d2f19a"/>
@@ -833,10 +833,10 @@
         id="id-1c42291394614fc7b1c0116e9b37b149"
         targetConnections="id-434fe21c21784aacbec0077c3d835e91">
       <bounds
-          x="456"
+          x="444"
           y="72"
-          width="181"
-          height="84"/>
+          width="193"
+          height="70"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-78cef94cb4fc4ff6858c71638aef8297.xml#id-78cef94cb4fc4ff6858c71638aef8297"/>
@@ -859,10 +859,10 @@
         id="id-39bae3eff798452c9ff12a0d8d790a69"
         targetConnections="id-ee1464d4911341aab9dde5736b6ef3c7">
       <bounds
-          x="478"
-          y="288"
-          width="138"
-          height="55"/>
+          x="444"
+          y="287"
+          width="193"
+          height="70"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-e7cf5c8f35364181b02d198092df355b.xml#id-e7cf5c8f35364181b02d198092df355b"/>
@@ -1296,7 +1296,7 @@
         source="id-091980efabb240048b5e779d5eb6f70a"
         target="id-f80a07471a804efd8b4f9f84ba176765"/>
     <bounds
-        x="1229"
+        x="1273"
         y="-24"
         width="185"
         height="49"/>
@@ -1564,7 +1564,7 @@
       <bounds
           x="24"
           y="36"
-          width="154"
+          width="193"
           height="103"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
