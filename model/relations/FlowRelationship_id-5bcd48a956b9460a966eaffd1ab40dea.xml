@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-5bcd48a956b9460a966eaffd1ab40dea">
+    id="id-5bcd48a956b9460a966eaffd1ab40dea"
+    documentation="There is a link between Lighting Control System and Building Management System for status and remote control">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-91686a6de9614b7dabb1dd96dcdcc466.xml#id-91686a6de9614b7dabb1dd96dcdcc466"/>
