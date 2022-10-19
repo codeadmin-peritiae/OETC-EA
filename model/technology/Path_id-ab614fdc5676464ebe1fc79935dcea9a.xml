@@ -1,5 +1,5 @@
 <archimate:Path
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Filed control network"
+    name="Filed control network (SCADA/IoT)"
     id="id-ab614fdc5676464ebe1fc79935dcea9a"
-    documentation="Virtual/Phisical data network dedicated to field machine control"/>
+    documentation="Virtual/Phisical data network dedicated to field machine control (es. SCADA, IoT)"/>

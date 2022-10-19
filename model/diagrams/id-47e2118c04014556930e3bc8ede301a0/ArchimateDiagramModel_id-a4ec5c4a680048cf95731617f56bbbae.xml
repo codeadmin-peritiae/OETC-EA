@@ -135,16 +135,6 @@
         fillColor="#c9e7b7">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-37e0c9c0b94c48ba822acba46f3442c2"
-          lineColor="#000000"
-          source="id-b0e4b4cd8c5c43e79a89bc32c1376b7f"
-          target="id-425b5413fc084cdc83a1c313c5a73abb">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-25369a8c3ba8462e8167c406875d4d0b.xml#id-25369a8c3ba8462e8167c406875d4d0b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e29cf5453a5e4b6ca49fd91ffb814b34"
           lineColor="#000000"
           source="id-b0e4b4cd8c5c43e79a89bc32c1376b7f"
@@ -152,6 +142,16 @@
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-0bc7dfb7d8a54109814538b9f282424c.xml#id-0bc7dfb7d8a54109814538b9f282424c"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-37e0c9c0b94c48ba822acba46f3442c2"
+          lineColor="#000000"
+          source="id-b0e4b4cd8c5c43e79a89bc32c1376b7f"
+          target="id-425b5413fc084cdc83a1c313c5a73abb">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-25369a8c3ba8462e8167c406875d4d0b.xml#id-25369a8c3ba8462e8167c406875d4d0b"/>
       </sourceConnections>
       <bounds
           x="24"
