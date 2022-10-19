@@ -2069,6 +2069,16 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-b4066c8ae2134683a5fbe49d6b0f364a.xml#id-b4066c8ae2134683a5fbe49d6b0f364a"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-135360af2b434c0a88067372f5817f04"
+        lineColor="#000000"
+        source="id-327ebbe0be334c269ef570b56e8ab357"
+        target="id-f3e718c1ae8546e897d9f3bfc912bcb6">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-b4066c8ae2134683a5fbe49d6b0f364a.xml#id-b4066c8ae2134683a5fbe49d6b0f364a"/>
+    </sourceConnections>
     <bounds
         x="1025"
         y="522"
