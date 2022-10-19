@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Mid) Geo-spatial Platform"
+    name="(Mid) ArcGis Geo-spatial Platform "
     id="id-5bce6dc345c645ed97f1d202e0bd0bf4"
-    documentation="Asset creation (in ArcGIS, Oracle CMMS, SCADA monitoring Tool), asset performance monitoring, asset life cycle management, warehouse management &#xA;The daily tasks of the department are accomplished mainly around the ArcGIS platform, which currently includes functionalities such as RGS, Data viewer, Workflow Management, Utility network.&#xA;The asset lifecycle process is supported by ESB/BPM Palatform managing the flow/alignment in ERP (Oracle) and Field Management (SCADA systems). "/>
+    documentation="Asset creation (in ArcGIS, Oracle CMMS, SCADA monitoring Tool), asset performance monitoring, asset life cycle management, warehouse management &#xA;The daily tasks of the department are accomplished mainly around the ArcGIS platform, which currently includes functionalities such as RGS, Data viewer, Workflow Management, Utility network.&#xA;The asset lifecycle process is supported by ESB/BPM Palatform managing the flow/alignment in ERP (Oracle) and Field Management (SCADA systems). &#xD;&#xA;&#xD;&#xA;(resources and assets mapping)&#xD;&#xA;Master repository "/>
