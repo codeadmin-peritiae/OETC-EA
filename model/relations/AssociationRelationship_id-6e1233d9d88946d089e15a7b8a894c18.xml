@@ -2,12 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Located"
-    id="id-a60ab54b916e47e4984fd993930e6136"
+    id="id-6e1233d9d88946d089e15a7b8a894c18"
     directed="true">
   <source
       xsi:type="archimate:TechnologyCollaboration"
-      href="TechnologyCollaboration_id-5983089edcbc4f18a01dfe70b78e8045.xml#id-5983089edcbc4f18a01dfe70b78e8045"/>
+      href="TechnologyCollaboration_id-604aaf43d46c41e6ad9c531421031354.xml#id-604aaf43d46c41e6ad9c531421031354"/>
   <target
       xsi:type="archimate:Location"
-      href="Location_id-416e75a051f04caa849b035e4ff60c75.xml#id-416e75a051f04caa849b035e4ff60c75"/>
+      href="Location_id-2913e9de3ea740c0bc58bf9305706037.xml#id-2913e9de3ea740c0bc58bf9305706037"/>
 </archimate:AssociationRelationship>
