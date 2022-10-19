@@ -1063,8 +1063,8 @@
       lineColor="#5c5c5c"
       fillColor="#c9e7b7">
     <bounds
-        x="364"
-        y="699"
+        x="156"
+        y="732"
         width="199"
         height="55"/>
     <archimateElement
@@ -1107,6 +1107,11 @@
         lineColor="#000000"
         source="id-bdb95faeb3604e71bef254f10a1a7dfc"
         target="id-0dbba21eee2a49069a770153b3bae648">
+      <bendpoints
+          startX="84"
+          startY="562"
+          endX="-780"
+          endY="10"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-46a8562fb71547ff878838cb7099cd2b.xml#id-46a8562fb71547ff878838cb7099cd2b"/>
