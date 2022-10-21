@@ -263,9 +263,9 @@
             href="FlowRelationship_id-2366b0590ae34e19ae9f1b7461e490e4.xml#id-2366b0590ae34e19ae9f1b7461e490e4"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="24"
           y="300"
-          width="120"
+          width="156"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Path"
@@ -717,8 +717,8 @@
       id="id-9de361e312c14dc89c3459971214bc34"
       targetConnections="id-d981c11d6988406182441c5cdd90130d">
     <bounds
-        x="1020"
-        y="1044"
+        x="1044"
+        y="1047"
         width="164"
         height="55"/>
     <archimateElement
@@ -1688,9 +1688,9 @@
       fillColor="#fbb875">
     <bounds
         x="529"
-        y="552"
+        y="528"
         width="120"
-        height="55"/>
+        height="96"/>
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_id-92e613bebc204443ba89c01360431d10.xml#id-92e613bebc204443ba89c01360431d10"/>
