@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intrusion detection system - Oracle IDS"
+    name="Intrusion Detection System - Oracle IDS"
     id="id-51dafd7b723b458aa8254832b8f54986"
     documentation="The Intrusion Detection System (IDS) provides notification of unexpected events using all of the SD’s configured monitoring methods, though the amount of detail in each may vary. An optional IDS Reporting Feature Group license provides additional detail for attempted intrusions and suspicious behavior.&#xD;&#xA;&#xD;&#xA;Identity Services allow you to integrate established repositories of user information into your portal.&#xD;&#xA;&#xD;&#xA;Users, groups, and group membership configuration can be imported into the portal. Users logging into the portal can be authenticated against the existing system of record. Information about users can be imported from any number of external sources and mapped to portal properties, which can then be made available to the portal or other services."/>
