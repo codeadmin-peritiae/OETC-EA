@@ -694,7 +694,7 @@
     </sourceConnections>
     <bounds
         x="1721"
-        y="720"
+        y="708"
         width="165"
         height="55"/>
     <archimateElement
@@ -855,8 +855,8 @@
       id="id-d3f7259e6c764a43bcb32f0a9a2b64a9"
       targetConnections="id-c697bc9acb8b496db680069ef294f7e1 id-f4e7d3588f204fab8c87c9c93bb16a05">
     <bounds
-        x="1909"
-        y="720"
+        x="1920"
+        y="708"
         width="120"
         height="55"/>
     <archimateElement
